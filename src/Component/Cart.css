@@ -1,0 +1,25 @@
+.cardcont{
+    height: 52vh;
+    width: 25vw;
+    border: 4px solid teal;
+    margin: 20px;
+    border-radius: 10%;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.cardimg{
+    height: 20vh;
+    width: 23vw;
+    margin: 15px;
+    
+    border-radius: 10%;
+    flex-shrink: 0;
+}
+
+img{
+    height: 20vh;
+    width: 23vw; 
+    border: 1px solid gray;
+    border-radius: 10%;
+    flex-shrink: 0;
+}
